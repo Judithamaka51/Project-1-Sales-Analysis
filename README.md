@@ -32,4 +32,12 @@ This repository contains datasets and resources related to customer demographics
 - Calculate the percentage of total sales contributed by each region. 
 - Identify products with no sales in the last quarter.
  
-  Queries Result here.
+  Queries Result here.[https://github.com/Judithamaka51/Project-1-Sales-Analysis/commit/08664cdeda2885703dbbb3896755e58be5693b52]
+
+
+### Power BI: 
+- Create a dashboard that visualizes the insights found in Excel and SQL. The dashboard should include a sales overview, top-performing products, and 
+regional breakdowns.
+ 
+### Shown here.
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/0714a825-c6bd-4d47-992a-4feebee4a85e">

@@ -11,6 +11,15 @@ This repository contains datasets and resources related to customer demographics
  
 - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
 
+#### Shown here:
+ 
+  <img width="178" alt="image" src="https://github.com/user-attachments/assets/791a754e-13f4-4a11-a315-1dd95028f56b">
+ 
+- Create any other interesting report
+ 
+#### Shown here:
+<img width="225" alt="image" src="https://github.com/user-attachments/assets/73f034a9-7224-4562-9308-b093e81a7f48">
+
 ### SQL: 
 #### Queries generated to get these below results;
  
